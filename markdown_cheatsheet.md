@@ -1,4 +1,3 @@
-Certainly! Here's a cheatsheet for Markdown language compatible with GitHub, including examples presented in a table:
 
 | Syntax            | Example                                       | Result                 |
 |-------------------|-----------------------------------------------|------------------------|
